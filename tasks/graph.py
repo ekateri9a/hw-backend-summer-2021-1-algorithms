@@ -5,6 +5,7 @@ __all__ = (
     'Graph'
 )
 
+# Hello actions
 
 class Node:
     def __init__(self, value: Any):
